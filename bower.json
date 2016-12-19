@@ -1,0 +1,24 @@
+{
+  "name": "yaf-template",
+  "homepage": "https://github.com/biyefeilan/yaf-template",
+  "authors": [
+    "biyefeilan <biyefeilan@gmail.com>"
+  ],
+  "description": "yaf template",
+  "main": "",
+  "keywords": [
+    "yaf"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#^2.3.8",
+    "font-awesome": "^4.7.0"
+  }
+}
